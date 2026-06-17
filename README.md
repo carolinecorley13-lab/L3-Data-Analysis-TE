@@ -15,10 +15,10 @@ GS4: Created charts and sliders for dashboard.
 
 CC13 Excel Project:
 295 rows of data selected from raw large wildlife data set.csv.
-The data selected was from 2026 in Ordinacne Survey 'S' for 'animalia' and 'plantae' kingdoms
+The data selected was from 2026 in Ordinance Survey 'S' for 'animalia' and 'plantae' kingdoms.
 E1: Cleaned and formatted dataset.
 E2: Used pivot tables to summarise.
-E3: Created dashboard with charts and sliders
+E3: Created dashboard with charts and sliders.
 
-SQL, 3 queries showing basic code for creating databases and tables, populating and importing, aggregation and summarising and grouping and joining.
+SQL: 3 queries showing basic code for creating databases and tables, populating and importing, aggregation and summarising and grouping and joining.
 
