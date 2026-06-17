@@ -22,3 +22,14 @@ E3: Created dashboard with charts and sliders.
 
 SQL: 3 queries showing basic code for creating databases and tables, populating and importing, aggregation and summarising and grouping and joining.
 
+CC13 Python: Using data provided by the college
+P1: Imported and checked data shape
+P2: Cleaned missing values
+P3: Cleaned inconsistencies
+P4: Concatenated addresses
+P5: Amended columns
+P6: Cleaned trailers and cases.
+P7: Clened unique values
+P8: Created aggregates for analysis
+P9: Grouping by columns
+P10: Created scatter plot, pie and bar charts using matplotlib
