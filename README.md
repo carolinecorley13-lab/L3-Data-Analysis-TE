@@ -33,3 +33,8 @@ P7: Clened unique values
 P8: Created aggregates for analysis
 P9: Grouping by columns
 P10: Created scatter plot, pie and bar charts using matplotlib
+
+CC13 Power BI: 3 files showing visualisation of three datasets (wildlife data selected from raw large wildlife data set.csv, sales data provided by college)
+
+
+
