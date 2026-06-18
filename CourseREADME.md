@@ -1,5 +1,5 @@
 # L3DataTechProjects
-Projects completed as part of my course.
+Projects completed as part of my recent course.
 Downloaded records from NBNAtlas.org as raw large wildlife data set.csv with 192,959 rows
 (NBN Atlas occurrence download at NBN Atlas accessed on 17 April 2026.)
 
